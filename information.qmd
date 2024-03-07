@@ -1,0 +1,21 @@
+---
+title: "Information about me"
+---
+
+# Bio
+
+Dingning Li is a third-year student at University of Toronto’s Victoria College of Arts and Sciences, where she is pursuing in a degree in Economics Beyond her major, she is interest in the East Asian cultures and languages, currently pursuing a minor in East Asian Studies. She has developed interest with the Japanese language, immersing herself in its complexities as part of his broader academic journey.
+
+In spare time, Dingning finds joy and inspiration in travel and photography. With a film camera in hand, she captures the valuable moments and beauty of the diverse destinations she explores, weaving together visual narratives that reflect his perspective and experiences. Dingning's academic pursuits and personal hobbies mirror his deep curiosity about the world and his desire to understand the economic frameworks and cultural richness of East Asia. Whether in the classroom or on the road, he embraces every opportunity to learn, grow, and connect with the world around him.
+
+# CV
+
+Here is [my CV](resume.pdf) and you can find contact information in it.
+
+![image4](image4.jpeg){width="300," height="300"}
+
+Guess what is my mbti?
+
+here is the hint(too obvious) ![image6](image6.jpeg){width="300," height="300"}
+
+Yes! It's **ISFP** ![image5](image5.jpg){width="300," height="300"}

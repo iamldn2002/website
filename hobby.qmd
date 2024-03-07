@@ -1,0 +1,15 @@
+---
+title: "My hobby"
+---
+
+# Trip
+
+Embark on a journey through the "Trip" section, where each destination is more than just a place—it's a story waiting to be told. From bustling city streets to serene landscapes, I share my adventures and the unique experiences each location offers. This section is a collection of travel tales, insights, and tips gathered from my wanderlust-driven explorations. Join me as I traverse the globe, seeking out new cultures, cuisines, and connections that enrich my understanding of the world.
+
+![trip](image7.jpeg)
+
+# Film Photograph
+
+Photograph is a visual diary of moments captured through the lens of my film camera. Here, photography is more than a hobby; it's a way of seeing and preserving the world in its unguarded beauty. Each frame tells a story, evokes an emotion, or simply freezes a fleeting moment in time. From candid snapshots to meticulously composed scenes, this gallery showcases my journey in film photography, where light, shadow, and color play in harmony to depict the world as I see it.
+
+![film1](image8.jpeg) ![film2](image9.jpeg)
